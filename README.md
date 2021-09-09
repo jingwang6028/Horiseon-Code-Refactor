@@ -10,7 +10,7 @@
     2. Structure of the HTML elements follow a logical structure independent of styling and positioning.
     3. Be able to find accessible alt attributes in icon and image elements.
     4. Heading attributes fall in sequential order.
-    5. Title elemet is concise and descriptive.
+    5. Title element is concise and descriptive.
 
 ## Link URL to GitHub Repository
 
