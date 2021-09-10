@@ -18,7 +18,7 @@
   https://jingwang6028.github.io/Horiseon-Code-Refactor/
 ## Mock-Up Image
     This image shows the web application's appearance and functionality.
-![Horiseon webspage](./assets/images/01-html-css-git-homework-demo.png)
+![Horiseon webspage](./assets/images/Horiseon_Webpage.png)
 
 
 
