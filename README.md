@@ -13,9 +13,9 @@
     5. Title element is concise and descriptive.
 
 ## Link URL to GitHub Repository
-    https://github.com/jingwang6028/Horiseon-Code-Refactor
+   https://github.com/jingwang6028/Horiseon-Code-Refactor
 ## Link URL to the GitHub Page
-    https://jingwang6028.github.io/Horiseon-Code-Refactor/
+  https://jingwang6028.github.io/Horiseon-Code-Refactor/
 ## Mock-Up Image
     This image shows the web application's appearance and functionality.
 ![Horiseon webspage](./assets/images/01-html-css-git-homework-demo.png)
